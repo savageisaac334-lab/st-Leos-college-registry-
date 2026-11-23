@@ -4,3 +4,6 @@
 
 ## UI & Layout Polish Notes
 - Centered footer social icons and refined mobile padding for school notices.
+
+## UI & Layout Polish Notes
+- Centered footer social icons and refined mobile padding for school notices.
