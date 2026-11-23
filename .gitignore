@@ -1,0 +1,16 @@
+wp-admin/
+wp-includes/
+wp-content/
+wp-*.php
+xmlrpc.php
+license.txt
+readme.html
+"Index .php"
+"Contact Us.php"
+"Students Life.php"
+alumni.php
+db.php
+export.php
+sleck.sql
+*.zip
+*.log
